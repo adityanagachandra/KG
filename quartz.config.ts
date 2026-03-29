@@ -16,7 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    // Project site: https://<user>.github.io/<repo>/ — required for RSS, sitemap, OG URLs
+    baseUrl: "adityanagachandra.github.io/personal-KG",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
