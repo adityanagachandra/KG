@@ -1,5 +1,5 @@
 ---
-title: Object placement → appearance → 3DGS pipeline
+title: WorldMesh Scene Data Prep 
 tags:
   - architecture
   - diagram
